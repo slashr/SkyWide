@@ -40,3 +40,8 @@ Respond.js (j.mp/respondjs)
 Skel (skel.io)
 
 -----------------------------------------------------------------------------------------------------------
+Free for personal and commercial use under the CCA 3.0 license 
+Creative Commons Attribution 3.0 Unported
+http://creativecommons.org/licenses/by/3.0/
+
+
