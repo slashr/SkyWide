@@ -1,6 +1,6 @@
 Repository of website skywide.in
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 Changing The Scrolling Background:
 
@@ -15,14 +15,14 @@ In CSS,	look for this line in css/style.css (line 108 as of this writing):
 	background: #348cb2 url("images/bg.jpg") bottom left;
 and use it to set the page background color, URL, and placement of your image. It should be as close to 1500px wide as you can get it.
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 Website Design Credit:
 Aerial by HTML5 UP
 html5up.net | @n33co
 n33.co @n33co dribbble.com/n33
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 Other Credits:
 - Background Image:
@@ -40,8 +40,3 @@ Respond.js (j.mp/respondjs)
 Skel (skel.io)
 
 -----------------------------------------------------------------------------------------------------------
-Free for personal and commercial use under the CCA 3.0 license 
-Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
-
-
